@@ -1,0 +1,270 @@
+INFO 2024-11-22 04:58:10,833 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 04:58:12,920 basehttp "GET / HTTP/1.1" 404 2510
+WARNING 2024-11-22 04:58:13,072 basehttp "GET /favicon.ico HTTP/1.1" 404 2561
+WARNING 2024-11-22 04:58:13,072 basehttp "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2624
+WARNING 2024-11-22 04:58:13,079 basehttp "GET /apple-touch-icon.png HTTP/1.1" 404 2588
+INFO 2024-11-22 04:58:16,701 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-22 04:58:16,728 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4178
+INFO 2024-11-22 04:58:16,747 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-11-22 04:58:16,747 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2024-11-22 04:58:16,750 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2024-11-22 04:58:16,750 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-11-22 04:58:16,750 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 18559
+INFO 2024-11-22 04:58:16,751 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 21310
+INFO 2024-11-22 04:58:16,751 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-11-22 04:58:20,214 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-22 04:58:20,235 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4178
+INFO 2024-11-22 04:59:04,002 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-22 04:59:04,277 basehttp "GET /admin/ HTTP/1.1" 200 12857
+INFO 2024-11-22 04:59:04,285 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-11-22 04:59:04,306 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-11-22 04:59:04,306 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-11-22 04:59:18,422 basehttp "GET /admin/students/student/add/ HTTP/1.1" 200 15429
+INFO 2024-11-22 04:59:18,441 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:18,442 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-11-22 04:59:18,442 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-11-22 04:59:18,442 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-11-22 04:59:18,443 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-11-22 04:59:18,451 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-11-22 04:59:18,452 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-11-22 04:59:18,452 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-11-22 04:59:18,453 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-11-22 04:59:18,454 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-11-22 04:59:18,454 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-11-22 04:59:18,455 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-11-22 04:59:18,455 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-11-22 04:59:18,457 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-11-22 04:59:18,457 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11921
+INFO 2024-11-22 04:59:18,489 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-11-22 04:59:37,094 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 12546
+INFO 2024-11-22 04:59:37,102 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-11-22 04:59:37,104 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2024-11-22 04:59:37,105 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:37,125 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-11-22 04:59:38,409 basehttp "GET /admin/attendance/attendance/add/ HTTP/1.1" 200 17339
+INFO 2024-11-22 04:59:38,420 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-11-22 04:59:38,423 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:42,399 basehttp "GET /admin/authtoken/tokenproxy/add/ HTTP/1.1" 200 13432
+INFO 2024-11-22 04:59:42,410 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:45,039 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 20876
+INFO 2024-11-22 04:59:45,048 basehttp "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2024-11-22 04:59:45,049 basehttp "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-11-22 04:59:45,051 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:45,076 basehttp "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-11-22 04:59:45,076 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-11-22 04:59:45,077 basehttp "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-11-22 04:59:45,077 basehttp "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-11-22 04:59:47,219 basehttp "GET /admin/courses/course/add/ HTTP/1.1" 200 14724
+INFO 2024-11-22 04:59:47,230 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:48,738 basehttp "GET /admin/courses/enrollment/add/ HTTP/1.1" 200 15842
+INFO 2024-11-22 04:59:48,752 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 04:59:54,322 basehttp "GET /admin/grades/grade/add/ HTTP/1.1" 200 17195
+INFO 2024-11-22 04:59:54,333 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:00:04,037 basehttp "GET /admin/students/student/add/ HTTP/1.1" 200 15429
+INFO 2024-11-22 05:00:04,047 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:00:08,833 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 20876
+INFO 2024-11-22 05:00:08,845 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:00:14,134 basehttp "GET /admin/students/student/ HTTP/1.1" 200 12517
+INFO 2024-11-22 05:00:14,143 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:00:20,041 basehttp "GET /admin/courses/enrollment/add/ HTTP/1.1" 200 15842
+INFO 2024-11-22 05:00:20,053 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:00:22,731 basehttp "GET /admin/grades/grade/add/ HTTP/1.1" 200 17195
+INFO 2024-11-22 05:00:22,741 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:07,838 basehttp "GET /admin/students/student/ HTTP/1.1" 200 12517
+INFO 2024-11-22 05:01:07,849 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:09,957 basehttp "GET /admin/students/student/add/ HTTP/1.1" 200 15429
+INFO 2024-11-22 05:01:09,964 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:21,193 basehttp "POST /admin/students/student/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:01:21,222 basehttp "GET /admin/students/student/ HTTP/1.1" 200 13864
+INFO 2024-11-22 05:01:21,231 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:21,251 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-11-22 05:01:24,371 basehttp "GET /admin/grades/grade/add/ HTTP/1.1" 200 17229
+INFO 2024-11-22 05:01:24,379 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:28,530 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 20876
+INFO 2024-11-22 05:01:28,542 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:30,433 basehttp "GET /admin/courses/course/add/ HTTP/1.1" 200 14724
+INFO 2024-11-22 05:01:30,445 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:44,818 basehttp "POST /admin/courses/course/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:01:44,849 basehttp "GET /admin/courses/course/ HTTP/1.1" 200 13860
+INFO 2024-11-22 05:01:44,859 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:47,222 basehttp "GET /admin/grades/grade/add/ HTTP/1.1" 200 17270
+INFO 2024-11-22 05:01:47,228 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:01:53,939 basehttp "POST /admin/grades/grade/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:01:53,970 basehttp "GET /admin/grades/grade/ HTTP/1.1" 200 13870
+INFO 2024-11-22 05:01:53,982 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:01,316 basehttp "GET /admin/courses/enrollment/ HTTP/1.1" 200 12534
+INFO 2024-11-22 05:02:01,328 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:02,872 basehttp "GET /admin/courses/enrollment/add/ HTTP/1.1" 200 15917
+INFO 2024-11-22 05:02:02,884 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:05,961 basehttp "POST /admin/courses/enrollment/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:02:05,990 basehttp "GET /admin/courses/enrollment/ HTTP/1.1" 200 13946
+INFO 2024-11-22 05:02:06,000 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:10,135 basehttp "GET /admin/courses/course/ HTTP/1.1" 200 13657
+INFO 2024-11-22 05:02:10,148 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:11,166 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 12826
+INFO 2024-11-22 05:02:11,178 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:12,571 basehttp "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 12898
+INFO 2024-11-22 05:02:13,982 basehttp "GET /admin/authtoken/tokenproxy/add/ HTTP/1.1" 200 13432
+INFO 2024-11-22 05:02:13,992 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:02:17,005 basehttp "POST /admin/authtoken/tokenproxy/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:02:17,032 basehttp "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 14135
+INFO 2024-11-22 05:02:17,049 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+WARNING 2024-11-22 05:03:21,267 basehttp "GET / HTTP/1.1" 404 2510
+WARNING 2024-11-22 05:03:24,103 basehttp "GET / HTTP/1.1" 404 2510
+INFO 2024-11-22 05:03:25,188 basehttp "GET /auth HTTP/1.1" 301 0
+WARNING 2024-11-22 05:03:25,216 basehttp "GET /auth/ HTTP/1.1" 401 4991
+INFO 2024-11-22 05:03:25,229 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-11-22 05:03:25,229 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-11-22 05:03:25,233 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-11-22 05:03:25,234 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-11-22 05:03:25,234 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-11-22 05:03:25,235 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-11-22 05:03:25,235 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-11-22 05:03:25,236 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-11-22 05:03:25,236 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-11-22 05:03:25,236 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-11-22 05:03:25,237 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-11-22 05:03:25,259 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+ERROR 2024-11-22 05:06:15,698 log Internal Server Error: /auth
+Traceback (most recent call last):
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/auth/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-11-22 05:06:15,699 basehttp "POST /auth HTTP/1.1" 500 68415
+WARNING 2024-11-22 05:06:54,810 basehttp "POST /auth/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:07:42,247 basehttp "POST /auth/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:07:43,430 basehttp "POST /auth/ HTTP/1.1" 401 58
+INFO 2024-11-22 05:09:29,316 basehttp "GET /auth/users HTTP/1.1" 301 0
+WARNING 2024-11-22 05:09:29,344 basehttp "GET /auth/users/ HTTP/1.1" 401 9569
+ERROR 2024-11-22 05:10:02,712 log Internal Server Error: /auth/users
+Traceback (most recent call last):
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/auth/users/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-11-22 05:10:02,713 basehttp "POST /auth/users HTTP/1.1" 500 68511
+WARNING 2024-11-22 05:10:13,273 basehttp "POST /auth/users/ HTTP/1.1" 400 43
+WARNING 2024-11-22 05:10:23,845 basehttp "POST /auth/users/ HTTP/1.1" 400 151
+WARNING 2024-11-22 05:10:29,921 basehttp "POST /auth/users/ HTTP/1.1" 400 83
+WARNING 2024-11-22 05:10:41,987 basehttp "POST /auth/users/ HTTP/1.1" 400 114
+WARNING 2024-11-22 05:10:47,269 basehttp "POST /auth/users/ HTTP/1.1" 400 45
+INFO 2024-11-22 05:10:54,627 basehttp "POST /auth/users/ HTTP/1.1" 201 47
+ERROR 2024-11-22 05:11:36,050 log Internal Server Error: /auth/users/2
+Traceback (most recent call last):
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/middleware/common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/Users/mad/PycharmProjects/MiniProj/.venv/lib/python3.9/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/auth/users/2/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-11-22 05:11:36,050 basehttp "POST /auth/users/2 HTTP/1.1" 500 68691
+WARNING 2024-11-22 05:11:43,554 basehttp "GET /auth/users/2/ HTTP/1.1" 401 58
+INFO 2024-11-22 05:11:51,287 basehttp "GET /auth/users/2 HTTP/1.1" 301 0
+WARNING 2024-11-22 05:11:51,297 basehttp "GET /auth/users/2/ HTTP/1.1" 401 5284
+WARNING 2024-11-22 05:13:11,206 basehttp "GET /auth/users/2/ HTTP/1.1" 401 58
+INFO 2024-11-22 05:13:18,658 basehttp "POST /auth/users/ HTTP/1.1" 201 51
+WARNING 2024-11-22 05:14:54,176 basehttp "GET /auth/token/login HTTP/1.1" 405 7612
+WARNING 2024-11-22 05:15:12,055 basehttp "POST /auth/token/login HTTP/1.1" 400 68
+INFO 2024-11-22 05:15:24,558 basehttp "POST /auth/token/login HTTP/1.1" 200 57
+WARNING 2024-11-22 05:18:05,243 basehttp "GET /auth/users/2/ HTTP/1.1" 401 5284
+INFO 2024-11-22 05:19:06,317 basehttp "GET /auth/users/2 HTTP/1.1" 301 0
+WARNING 2024-11-22 05:19:06,324 basehttp "GET /auth/users/2/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:21:03,211 basehttp "GET /auth/token/logout/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:21:48,999 basehttp "GET /auth/token/logout/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:22:05,615 basehttp "GET /auth/token/logout/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:22:16,284 basehttp "GET /auth/token/logout/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:22:17,348 basehttp "GET /auth/token/logout/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:22:17,977 basehttp "GET /auth/token/logout/ HTTP/1.1" 401 58
+WARNING 2024-11-22 05:38:16,418 basehttp "GET / HTTP/1.1" 404 2510
+WARNING 2024-11-22 05:38:20,262 basehttp "GET / HTTP/1.1" 404 2510
+INFO 2024-11-22 05:38:23,062 basehttp "GET /admin/ HTTP/1.1" 200 14404
+INFO 2024-11-22 05:38:29,365 basehttp "GET /admin/students/student/ HTTP/1.1" 200 13665
+INFO 2024-11-22 05:38:29,377 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:38:36,162 basehttp "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 14137
+INFO 2024-11-22 05:38:38,784 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 12826
+INFO 2024-11-22 05:38:38,796 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:38:41,049 basehttp "GET /admin/students/student/add/ HTTP/1.1" 200 15512
+INFO 2024-11-22 05:38:41,062 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+WARNING 2024-11-22 05:40:47,774 basehttp "GET /students/ HTTP/1.1" 404 2555
+WARNING 2024-11-22 05:40:53,778 basehttp "GET /soc/ HTTP/1.1" 404 2540
+INFO 2024-11-22 05:40:54,335 basehttp "GET /admin/ HTTP/1.1" 200 14404
+WARNING 2024-11-22 05:40:56,048 basehttp "GET /autth HTTP/1.1" 404 2543
+WARNING 2024-11-22 05:40:58,508 basehttp "GET /autth HTTP/1.1" 404 2543
+WARNING 2024-11-22 05:41:00,695 basehttp "GET /auth/ HTTP/1.1" 401 4991
+WARNING 2024-11-22 05:41:06,416 basehttp "GET /auth/user HTTP/1.1" 404 8248
+WARNING 2024-11-22 05:41:12,768 basehttp "GET /auth/users/ HTTP/1.1" 401 9569
+WARNING 2024-11-22 05:41:18,212 basehttp "GET /auth/users/ HTTP/1.1" 401 9569
+WARNING 2024-11-22 05:41:29,993 basehttp "GET /auth/login HTTP/1.1" 404 8251
+INFO 2024-11-22 05:41:57,153 basehttp "GET /auth/users/me HTTP/1.1" 301 0
+WARNING 2024-11-22 05:41:57,170 basehttp "GET /auth/users/me/ HTTP/1.1" 401 5223
+WARNING 2024-11-22 05:42:01,782 basehttp "GET /auth/users/ HTTP/1.1" 401 9569
+WARNING 2024-11-22 05:42:04,738 basehttp "GET /auth/ HTTP/1.1" 401 4991
+WARNING 2024-11-22 05:42:09,920 basehttp "GET /auth/user HTTP/1.1" 404 8248
+INFO 2024-11-22 05:46:49,616 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 12546
+INFO 2024-11-22 05:46:49,637 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:46:54,531 basehttp "GET /admin/students/student/ HTTP/1.1" 200 13665
+INFO 2024-11-22 05:46:54,537 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:46:56,684 basehttp "GET /admin/students/student/1/change/ HTTP/1.1" 200 15762
+INFO 2024-11-22 05:46:56,695 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:00,880 basehttp "GET /admin/students/student/add/ HTTP/1.1" 200 15512
+INFO 2024-11-22 05:47:00,888 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:13,290 basehttp "POST /admin/students/student/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:47:13,317 basehttp "GET /admin/students/student/ HTTP/1.1" 200 14073
+INFO 2024-11-22 05:47:13,326 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:17,327 basehttp "GET /admin/students/student/2/change/ HTTP/1.1" 200 15767
+INFO 2024-11-22 05:47:17,338 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:25,252 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 12826
+INFO 2024-11-22 05:47:25,259 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:25,950 basehttp "GET /admin/courses/course/ HTTP/1.1" 200 13657
+INFO 2024-11-22 05:47:25,964 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:27,452 basehttp "GET /admin/courses/enrollment/ HTTP/1.1" 200 13716
+INFO 2024-11-22 05:47:27,463 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:30,130 basehttp "GET /admin/courses/enrollment/add/ HTTP/1.1" 200 15952
+INFO 2024-11-22 05:47:30,142 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:34,391 basehttp "POST /admin/courses/enrollment/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:47:34,422 basehttp "GET /admin/courses/enrollment/ HTTP/1.1" 200 14183
+INFO 2024-11-22 05:47:34,431 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:36,243 basehttp "GET /admin/attendance/attendance/add/ HTTP/1.1" 200 17449
+INFO 2024-11-22 05:47:36,254 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:43,164 basehttp "POST /admin/attendance/attendance/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:47:43,191 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 13958
+INFO 2024-11-22 05:47:43,199 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:44,820 basehttp "GET /admin/attendance/attendance/add/ HTTP/1.1" 200 17449
+INFO 2024-11-22 05:47:44,828 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:50,729 basehttp "POST /admin/attendance/attendance/add/ HTTP/1.1" 302 0
+INFO 2024-11-22 05:47:50,761 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 14193
+INFO 2024-11-22 05:47:50,771 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:53,709 basehttp "GET /admin/students/student/ HTTP/1.1" 200 13873
+INFO 2024-11-22 05:47:53,716 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:47:57,061 basehttp "GET /admin/django_celery_beat/clockedschedule/ HTTP/1.1" 200 12567
+INFO 2024-11-22 05:47:57,073 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:48:03,991 basehttp "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 14137
+INFO 2024-11-22 05:48:06,660 basehttp "GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 13833
+INFO 2024-11-22 05:48:06,674 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+WARNING 2024-11-22 05:49:45,692 basehttp "GET / HTTP/1.1" 404 2510
+INFO 2024-11-22 05:49:55,065 basehttp "GET /admin/ HTTP/1.1" 200 15639
+INFO 2024-11-22 05:50:01,043 basehttp "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 15697
+INFO 2024-11-22 05:50:01,052 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:50:03,817 basehttp "GET /admin/django_celery_beat/periodictask/add/ HTTP/1.1" 200 35857
+INFO 2024-11-22 05:50:03,825 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-11-22 05:50:03,825 basehttp "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-11-22 05:50:03,858 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-11-22 06:04:35,538 autoreload /Users/mad/PycharmProjects/MiniProj/MiniProj/__init__.py changed, reloading.
+INFO 2024-11-22 06:04:36,140 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 06:04:56,126 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 10:31:15,180 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 10:31:38,101 autoreload Watching for file changes with StatReloader
